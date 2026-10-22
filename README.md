@@ -1,7 +1,13 @@
 # Min-Max Normalization and PCA Workshop
 
-**Team number:** Group 3
-**Team members and student IDs:** Juan Chirivi 9115141 - Ricardo - Zeynep - Senay
+## Team Members - Team 3
+
+| Name | Student ID |
+|------|------------|
+| Juan Chirivi | 9115141 |
+| Ricardo Mohammed | 7500382 |
+| Zeynep | |
+| Senay | |
 
 ## Project Overview
 
